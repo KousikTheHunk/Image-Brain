@@ -1,5 +1,5 @@
-# Smart Brain API 
-## React JS, Node JS, Express JS, Postgres
+# Image Brain API 
+## React JS, Node JS, Express JS, PostgresSql
 
 ![alt text](https://i.imgur.com/Jf98ixY.jpg)
 
